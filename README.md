@@ -70,6 +70,6 @@ Once you've created and enabled a custom title format on this plugin's settings 
 
 - To **delete** a line (song details + title formats) just **empty the search string field and press **apply****. Or you could just **disable** it and keep it for later use by unchecking the **Enabled** box.
 
-- You can use unicode **symbols** in displayed strings. **Hex code** works. Example: the hex code of a **black heart** is <xmp style="display: inline-block;font-weight:bold;">&#x2665;</xmp> and would be displayed as &#x2665;. For more unicode characters see <a href="https://www.rapidtables.com/web/html/html-codes.html">here</a> or <a href="https://codepoints.net/U+2665">here</a>.
+- You can use unicode **symbols** in displayed strings. **Hex code** works. Example: the hex code of a **black heart** is `&#x2665;` and would be displayed as &#x2665;. For more unicode characters see <a href="https://www.rapidtables.com/web/html/html-codes.html">here</a> or <a href="https://codepoints.net/U+2665">here</a>.
 
 - ⚠️ Characters that are not part of a device's currently enabled **font** won't be displayed (properly). Either replace the character or use a different font on the device.

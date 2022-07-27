@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<extension>
+	<id>afc5d757-2659-d16a-9aca-e721169a5c13</id>
+	<name>PLUGIN_USECOMMENTSTAGINFOLIGHT</name>
+	<module>Plugins::UseCommentsTagInfoLight::Plugin</module>
+	<version>0.1.0</version>
+	<description>PLUGIN_USECOMMENTSTAGINFOLIGHT_DESC</description>
+	<creator>AF</creator>
+	<optionsURL>plugins/UseCommentsTagInfoLight/settings/songdetails.html</optionsURL>
+	<homepageURL>https://github.com/AF-1/lms-usecommentstaginfolight</homepageURL>
+	<defaultState>enabled</defaultState>
+	<targetApplication>
+		<id>Logitech Media Server</id>
+		<minVersion>7.9</minVersion>
+		<maxVersion>*</maxVersion>
+	</targetApplication>
+</extension>

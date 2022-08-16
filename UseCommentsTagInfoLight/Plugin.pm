@@ -121,7 +121,7 @@ sub getTrackInfo {
 
 	# check if remote track is part of online library
 	if ((Slim::Music::Info::isRemoteURL($url) == 1)) {
-		$log->debug('ignoring remote track without comment tag: '.$url);
+		$log->debug('ignoring remote track without comments tag: '.$url);
 		return;
 	}
 
@@ -177,7 +177,7 @@ sub getTitleFormat {
 
 	# check if remote track is part of online library
 	if ((Slim::Music::Info::isRemoteURL($trackURL) == 1)) {
-		$log->info('ignoring remote track without comment tag: '.$trackURL);
+		$log->info('ignoring remote track without comments tag: '.$trackURL);
 		return $TF_string;
 	}
 

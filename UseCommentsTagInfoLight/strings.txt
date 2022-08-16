@@ -2,7 +2,7 @@ PLUGIN_USECOMMENTSTAGINFOLIGHT
 	EN	Use Comments Tag Info Light
 
 PLUGIN_USECOMMENTSTAGINFOLIGHT_DESC
-	EN	This plugin uses (key)words in your music files' comments tags to add extra information to the song details page and to define/display custom title formats.
+	EN	This plugin uses (key)words in your music files' comments tags to add extra information to the song details page and to define/display custom title formats. More information on the GitHub page.
 
 PLUGIN_USECOMMENTSTAGINFOLIGHT_LOG_DESC
 	EN	Log of plugin UseCommentsTagInfoLight

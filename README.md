@@ -4,6 +4,8 @@ Use Comments Tag Info Light
 A plugin for [Logitech Media Server](https://github.com/Logitech/slimserver)<br>
 
 This plugin uses (key)words in your music files' <u>comments tags</u> to add extra information to the song details page and to define/display custom title formats.
+<br><br>
+[⬅️ **Back to the list of all plugins**](https://github.com/AF-1/)
 <br><br><br>
 
 ## Requirements

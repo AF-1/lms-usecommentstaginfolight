@@ -38,7 +38,7 @@ use Plugins::UseCommentsTagInfoLight::Settings;
 
 my $log = Slim::Utils::Log->addLogCategory({
 	'category' => 'plugin.usecommentstaginfolight',
-	'defaultLevel' => 'WARN',
+	'defaultLevel' => 'ERROR',
 	'description' => 'PLUGIN_USECOMMENTSTAGINFOLIGHT',
 });
 my $serverPrefs = preferences('server');

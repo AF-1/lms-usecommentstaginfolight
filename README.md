@@ -79,5 +79,4 @@ Once you've created and enabled a custom title format on this plugin's settings 
 
 ## Reporting a bug
 
-If you think that you've found a bug, open an [**issue here on GitHub**](https://github.com/AF-1/lms-usecommentstaginfolight/issues) and fill out the ***Bug report* issue template**.<br>
-**Don't** post bug reports on the LMS forum.
+If you think that you've found a bug, open an [**issue here on GitHub**](https://github.com/AF-1/lms-usecommentstaginfolight/issues) and fill out the ***Bug report* issue template**. Please post bug reports on **GitHub only**.

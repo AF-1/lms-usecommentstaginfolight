@@ -75,3 +75,9 @@ Once you've created and enabled a custom title format on this plugin's settings 
 - You can use unicode **symbols** in displayed strings. **Hex code** works. Example: the hex code of a **black heart** is `&#x2665;` and would be displayed as &#x2665;. For more unicode characters see <a href="https://www.rapidtables.com/web/html/html-codes.html">here</a> or <a href="https://codepoints.net/U+2665">here</a>.
 
 - ⚠️ Characters that are not part of a device's currently enabled **font** won't be displayed (properly). Either replace the character or use a different font on the device.
+<br><br><br>
+
+## Reporting a bug
+
+If you think that you've found a bug, open an [**issue here on GitHub**](https://github.com/AF-1/lms-usecommentstaginfolight/issues) and fill out the ***Bug report* issue template**.<br>
+**Don't** post bug reports on the LMS forum.

@@ -2,12 +2,14 @@
 	<details>
 		<title lang="EN">Use Comments Tag Info Light Repo (AF1)</title>
 	</details>
-	<plugin name="UseCommentsTagInfoLight" version="0.1.4" minTarget="7.9" maxTarget="*">
-		<title lang="EN">Use Comments Tag Info Light</title>
-		<desc lang="EN">This plugin uses (key)words in your music files' comments tags to add extra information to the song details page and to define/display custom title formats. More information on the GitHub page.</desc>
-		<url>https://github.com/AF-1/lms-usecommentstaginfolight/releases/download/0.1.4/lms-usecommentstaginfolight-0.1.4.zip</url>
-		<creator>AF</creator>
-		<link>https://github.com/AF-1/lms-usecommentstaginfolight</link>
-		<sha>db9d74dbe78ad4c6977898ee7746a0a654af2ea9</sha>
-	</plugin>
+	<plugins>
+		<plugin name="UseCommentsTagInfoLight" version="0.1.4" minTarget="7.9" maxTarget="*">
+			<title lang="EN">Use Comments Tag Info Light</title>
+			<desc lang="EN">This plugin uses (key)words in your music files' comments tags to add extra information to the song details page and to define/display custom title formats. More information on the GitHub page.</desc>
+			<url>https://github.com/AF-1/lms-usecommentstaginfolight/releases/download/0.1.4/lms-usecommentstaginfolight-0.1.4.zip</url>
+			<creator>AF</creator>
+			<link>https://github.com/AF-1/lms-usecommentstaginfolight</link>
+			<sha>db9d74dbe78ad4c6977898ee7746a0a654af2ea9</sha>
+		</plugin>
+	</plugins>
 </extensions>

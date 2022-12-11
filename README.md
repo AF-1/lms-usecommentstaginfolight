@@ -1,7 +1,7 @@
 Use Comments Tag Info Light
 ====
 
-A plugin for [Logitech Media Server](https://github.com/Logitech/slimserver)<br>
+A plugin[^1] for [Logitech Media Server](https://github.com/Logitech/slimserver)<br>
 
 This plugin uses (key)words in your music files' <u>comments tags</u> to add extra information to the song details page and to define/display custom title formats.
 <br><br>
@@ -21,6 +21,7 @@ Using <b>(key)words</b> in your music files' <b><u>comments</u> tags</b> you can
 - define and display **custom title formats**. They can be used to display a <i>short</i> string or a character on the <i>Now Playing screensaver</i> and the <i>Music Information plugin screensaver</i> or to append a string to the track title.
 <br><br><br>
 
+[^1]: If you want localized strings in your language, read <a href="https://github.com/AF-1/sobras/wiki/Adding-localization-to-LMS-plugins"><b>this</b></a>.
 
 ## Installation
 
